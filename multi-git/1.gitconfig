@@ -1,0 +1,6 @@
+[user]
+	name = someusername_1
+	email = someuseraddress_2@gmail.com
+
+[includeIf "gitdir/i:E:/Private/"]
+	path = ~/Private/.gitconfig
